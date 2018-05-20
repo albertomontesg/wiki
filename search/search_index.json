@@ -12,8 +12,18 @@
         },
         {
             "location": "/macos/networking/",
+            "text": "Networking\n\n\nAutomatic Location\n\n\nUse \nlocationchanger\n to automatically change OS's network location based on the name of the Wi-Fi network I am connected to.\n\n\nInstallation:\n\n\ncurl -L https://github.com/eprev/locationchanger/raw/master/locationchanger.sh | bash",
+            "title": "Networking"
+        },
+        {
+            "location": "/macos/networking/#networking",
             "text": "",
             "title": "Networking"
+        },
+        {
+            "location": "/macos/networking/#automatic-location",
+            "text": "Use  locationchanger  to automatically change OS's network location based on the name of the Wi-Fi network I am connected to.  Installation:  curl -L https://github.com/eprev/locationchanger/raw/master/locationchanger.sh | bash",
+            "title": "Automatic Location"
         },
         {
             "location": "/about/license/",
