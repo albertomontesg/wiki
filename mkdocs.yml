@@ -10,9 +10,9 @@ repo_url: https://github.com/albertomontesg/wiki
 pages:
   - Home: index.md
   - macOS:
-    - Networking: macos/networking.md
+      - Networking: macos/networking.md
   - About:
-    - License: about/license.md
+      - License: about/license.md
 
 theme:
   name: material
