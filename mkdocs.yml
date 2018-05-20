@@ -1,0 +1,31 @@
+---
+site_name: Personal Wiki
+site_url: http://wiki.montesg.xyz
+site_description: Alberto's personal Wiki and knowledge hub
+site_author: Alberto Montes
+copyright: Alberto Montes (c) 2018
+
+repo_url: https://github.com/albertomontesg/wiki
+
+pages:
+  - Home: index.md
+  - macOS:
+    - Networking: macos/networking.md
+  - About:
+    - License: about/license.md
+
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: laptop
+  palette:
+    primary: blue grey
+    accent: red
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+google_analytics: ['UA-119595958-1', 'wiki.montesg.xyz']
